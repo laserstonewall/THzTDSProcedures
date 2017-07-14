@@ -12,6 +12,14 @@ The procedures are usually accessed via a control panel GUI that makes loading a
 
 If desired, the source code has individual supporting functions to perform basic operations such as loading in a file from a given directory, performing FFTs with specified parameters, etc.
 
+### Further procedures relying on this code
+
+[Nlaurita](https://github.com/Nlaurita) has expanded on the original code and developed additional routines to extend the functionality of the code, including detailed calculations of magnetic susceptibility, found [here](https://github.com/Nlaurita/Time-Domain-THz-Analysis-Code).
+
+### Code Use
+
+If you use the codein your research, please cite this repository in any publications.
+
 ### Credits
 
 The procedures were developed in the [group](https://sites.google.com/site/nparmitagegroup/) of Professor [Peter Armitage](http://physics-astronomy.jhu.edu/directory/n-peter-armitage/) in the [Johns Hopkins University Physics Department](http://physics-astronomy.jhu.edu/).
