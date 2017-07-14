@@ -15,3 +15,7 @@ If desired, the source code has individual supporting functions to perform basic
 ### Credits
 
 The procedures were developed in the [group](https://sites.google.com/site/nparmitagegroup/) of Professor [Peter Armitage](http://physics-astronomy.jhu.edu/directory/n-peter-armitage/) in the [Johns Hopkins University Physics Department](http://physics-astronomy.jhu.edu/).
+
+### Contact
+
+If you have found this code useful, have suggetions, or have questions/need help working with the procedures, please feel free to contact me at morris.chris.m@gmail.com.
